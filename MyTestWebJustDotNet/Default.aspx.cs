@@ -13,5 +13,10 @@ namespace MyTestWebJustDotNet
         {
 
         }
+        public static int getMeaningOfLife()
+        {
+            return 42;
+        }
+
     }
 }
